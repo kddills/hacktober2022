@@ -1,0 +1,4 @@
+- Name: Jin
+- Location: USA
+- Fun Fact: My Dog can burp and bark at the same time!
+- Link: [Github](https://github.com/jinwoov)
