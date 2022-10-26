@@ -1,0 +1,3 @@
+- Name: Jin Kim
+- Bio: I love to travel and meet cool people
+- Link: [Github](https://github.com/jinwoov)
